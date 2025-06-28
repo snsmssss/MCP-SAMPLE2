@@ -1,0 +1,8 @@
+# Core dependencies
+# No external dependencies required for this simple binary processor
+
+# Development dependencies (uncomment if needed)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.800
